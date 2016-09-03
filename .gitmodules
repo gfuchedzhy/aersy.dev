@@ -7,3 +7,7 @@
 [submodule "aersy-res"]
 	path = aersy-res
 	url = https://github.com/gfuchedzhy/aersy-res
+[submodule "glad"]
+	path = glad
+	url = https://github.com/Dav1dde/glad
+	branch = v0.1.12a
