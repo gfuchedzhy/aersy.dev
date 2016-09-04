@@ -1,0 +1,9 @@
+[submodule "glcxx"]
+	path = glcxx
+	url = https://github.com/gfuchedzhy/glcxx
+[submodule "aersy"]
+	path = aersy
+	url = https://github.com/gfuchedzhy/aersy
+[submodule "aersy-res"]
+	path = aersy-res
+	url = https://github.com/gfuchedzhy/aersy-res
